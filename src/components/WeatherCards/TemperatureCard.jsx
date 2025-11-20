@@ -1,0 +1,18 @@
+import { Thermometer } from "lucide-react";
+
+const TemperatureCard = ({ temp, feels }) => {
+  return (
+    <div className="bg-gradient-to-br from-orange-500 via-red-500 to-pink-600 rounded-2xl p-5 text-white shadow-2xl transform hover:scale-105 transition-all border-2 border-orange-400 h-32">
+      <div className="flex items-center justify-between h-full">
+        <div className="flex flex-col justify-center">
+          <p className="text-xs opacity-90 mb-1 font-semibold">Current Temp</p>
+          <p className="text-3xl font-bold">{temp.toFixed(1)}°C</p>
+          <p className="text-xs mt-1 opacity-75">Feels like {feels.toFixed(1)}°C</p>
+        </div>
+        <Thermometer className="w-14 h-14 opacity-70" />
+      </div>
+    </div>
+  );
+};
+
+export default TemperatureCard;
