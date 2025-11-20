@@ -38,7 +38,7 @@ The forecast uses a neural network built with TensorFlow.js that trains in your 
 - **Lucide React** - Icon set for weather symbols and UI elements
 
 ### Custom Hooks
-- `useSuggestions` - Handles city search autocomplete
+- `useSuggestions` - Handles city search 
 - `useWeather` - Fetches and manages weather data
 - `usePrediction` - Trains ML model and generates forecasts
 
