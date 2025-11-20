@@ -14,10 +14,10 @@ The forecast uses a neural network built with TensorFlow.js that trains in your 
 
 ## 🧡 Features
 
-- 🌍 **Global City Search** - Find weather info for any city
-- 🌡️ **Real-Time Weather** - Current temperature, humidity, wind speed, and conditions
-- 🤖 **ML-Based 7-Day Forecast** - Weather predictions created with a neural network that learns from past weather patterns
-- 📊 **Visual Data Charts** - See 30-day trends for temperature, CO₂, rainfall, and humidity
+-  **Global City Search** - Find weather info for any city
+-  **Real-Time Weather** - Current temperature, humidity, wind speed, and conditions
+-  **ML-Based 7-Day Forecast** - Weather predictions created with a neural network that learns from past weather patterns
+-  **Visual Data Charts** - See 30-day trends for temperature, CO₂, rainfall, and humidity
 
 ## 🌐 Demo
 
