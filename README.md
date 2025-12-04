@@ -70,9 +70,6 @@ cd ClimateX
 3. **Install packages**
 ```bash
 npm install
-npm install lucide-react
-npm install recharts
-npm install @tensorflow/tfjs
 ```
 
 4. **Run the dev server**
