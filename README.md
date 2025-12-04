@@ -8,7 +8,7 @@
 ![Lucide React](https://img.shields.io/badge/Lucide%20React-%23F56565.svg?logo=lucide&logoColor=white)
 [![License: MIT](https://img.shields.io/badge/License-MIT-38bdf8.svg?style=flat&logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)
 
-ClimateX is a weather dashboard that shows real-time weather data and forecasts for any city.   
+ClimateX is a climate & weather dashboard that shows real-time weather data and forecasts for any city.   
 Search a location to view current conditions and browse 30-day historical trends through interactive charts.   
 The forecast uses a neural network built with TensorFlow.js that trains in your browser, analyzing temperature, humidity, and CO₂ patterns to predict weather for the next 7 days. Each chart displays trend analysis and provides context to help interpret the data.
 
